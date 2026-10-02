@@ -1,7 +1,7 @@
 # Hi, I'm Frederick Valenzuela 👋
 
 ### Cybersecurity Operations & Infrastructure Engineer
-Jersey City, NJ | d3rek28@gmail.com | [LinkedIn](https://linkedin.com/in/frederick-valenzuela) | [Portfolio Site](https://d3rek28.github.io)
+Jersey City, NJ | d3rek28@gmail.com | [LinkedIn](https://www.linkedin.com/in/derek-valenz/) | [Portfolio Site](https://d3rek28.github.io)
 
 ---
 
