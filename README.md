@@ -35,3 +35,31 @@ Networking:         TCP/IP, Firewalls, IDS/IPS, Cisco Routing & Switching (CCNA)
 ---
 
 📫 **Get in Touch:** [d3rek28@gmail.com](mailto:d3rek28@gmail.com)
+---
+
+### 📊 GitHub Stats
+
+![Frederick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fr3ddy28&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr3ddy28&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🏆 Certifications & Badges
+
+| Certification | Status | Issuer |
+|---|---|---|
+| CompTIA Security+ | ✅ Earned | CompTIA |
+| AWS Cloud Practitioner | ✅ Earned | Amazon |
+| Cisco CCNA | ✅ Earned | Cisco |
+| MCSA | ✅ Earned | Microsoft |
+| Google Cybersecurity | ✅ Earned | Google |
+| SC-200 Security Operations Analyst | 🔄 In Progress | Microsoft |
+| CISSP | 🔄 In Progress | (ISC)² |
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-valenz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d3rek28@gmail.com)
