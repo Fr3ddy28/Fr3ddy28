@@ -24,11 +24,14 @@ Jersey City, NJ | d3rek28@gmail.com | [LinkedIn](https://linkedin.com/in/frederi
 ---
 
 ### 🧰 Technical Skillset
+
+```text
 SIEM / SOC:         Microsoft Sentinel, Splunk, KQL, Incident Response, Log Analysis
 Cloud Security:     Azure Defender for Cloud, AWS Cloud Practitioner
 Identity & Access:  Active Directory, Azure AD / Entra ID, MFA, Group Policy (GPO)
 Scripting & OS:     Python, PowerShell, Bash, Windows Server, Linux (Ubuntu/RHEL)
 Networking:         TCP/IP, Firewalls, IDS/IPS, Cisco Routing & Switching (CCNA)
+```
 ---
 
 📫 **Get in Touch:** [d3rek28@gmail.com](mailto:d3rek28@gmail.com)
