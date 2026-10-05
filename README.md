@@ -8,7 +8,7 @@ Jersey City, NJ | d3rek28@gmail.com | [LinkedIn](https://www.linkedin.com/in/der
 ### 🛡️ About Me
 - 🔭 **Focus:** Cybersecurity Operations (SOC Tier 2/3), SIEM Administration, and Cloud Infrastructure.
 - 🛠️ **Core Tools:** Microsoft Sentinel, Splunk, KQL, Python Automation, Active Directory, Azure/AWS.
-- 📜 **Certifications:** CompTIA Security+, AWS Certified Cloud Practitioner, Cisco CCNA, MCSA.
+- 📜 **Certifications:** CompTIA Security+, AWS Certified Cloud Practitioner, Google Cybersecurity, Cisco CCNA, MCSA.
 - 🎓 **Currently Pursuing:** Microsoft SC-200 (Security Operations Analyst) & CISSP.
 
 ---
